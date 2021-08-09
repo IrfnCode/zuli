@@ -1967,11 +1967,7 @@ module.exports = handle = (client, Client) => {
                 "description": "Menampilkan List Dragon Raja", 
                 "rowId": `${data.prefix}dragon`
               },
-              {
-                "title": "List Gift Skin", 
-                "description": "Menampilkan List Gift Skin", 
-                "rowId": `${data.prefix}gifskin`
-              },
+     
               {
                 "title": "List Life After", 
                 "description": "Menampilkan List Life After", 
@@ -2057,11 +2053,7 @@ module.exports = handle = (client, Client) => {
                 "description": "Menampilkan List Dragon Raja", 
                 "rowId": `${data.prefix}dragon`
               },
-              {
-                "title": "List Gift Skin", 
-                "description": "Menampilkan List Gift Skin", 
-                "rowId": `${data.prefix}gifskin`
-              },
+   
               {
                 "title": "List Life After", 
                 "description": "Menampilkan List Life After", 
